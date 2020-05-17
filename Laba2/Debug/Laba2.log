@@ -1,0 +1,4 @@
+﻿  Laba2.cpp
+C:\Users\Дианочка\source\repos\OAIP\Laba2\Laba2.cpp(41,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\Дианочка\source\repos\OAIP\Laba2\Laba2.cpp(302,24): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Laba2.vcxproj -> C:\Users\Дианочка\source\repos\OAIP\Laba2\Debug\Laba2.exe
